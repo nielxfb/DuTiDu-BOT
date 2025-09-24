@@ -1,0 +1,38 @@
+{
+    "monday": {
+        "initial": {
+            "shift": "-",
+            "scheduleDetails": []
+        }
+    },
+    "tuesday": {
+        "initial": {
+            "shift": "-",
+            "scheduleDetails": []
+        }
+    },
+    "wednesday": {
+        "initial": {
+            "shift": "-",
+            "scheduleDetails": []
+        }
+    },
+    "thursday": {
+        "initial": {
+            "shift": "-",
+            "scheduleDetails": []
+        }
+    },
+    "friday": {
+        "initial": {
+            "shift": "-",
+            "scheduleDetails": []
+        }
+    },
+    "saturday": {
+        "initial": {
+            "shift": "-",
+            "scheduleDetails": []
+        }
+    }
+}

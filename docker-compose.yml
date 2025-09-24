@@ -1,0 +1,14 @@
+services:
+  linebot-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - FLASK_ENV=production
+      - PYTHONPATH=/app
+    env_file:
+      - .env
+    restart: unless-stopped
+    
